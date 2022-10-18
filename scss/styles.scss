@@ -1,6 +1,12 @@
 /*Para que se vea en CSS*/
 
 //solo para sass
+
+//import de css de bootstrap
+@import "boostrap/bootstrap.scss";
+@import "variables";
+@import "nav";
+
 div {
     background-color: red;
 }
